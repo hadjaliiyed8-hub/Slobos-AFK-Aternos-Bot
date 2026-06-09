@@ -13,9 +13,9 @@
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": -620.638,
+    "y": 150,
+    "z": -185.560
   },
   "utils": {
     "auto-auth": {
@@ -54,7 +54,7 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 26149
     }
   },
   "modules": {
