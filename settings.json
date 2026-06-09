@@ -1,5 +1,5 @@
 {
-  "name": "AFK Bot",
+  "name": "MR.BOT",
   "bot-account": {
     "username": "MR.BOT",
     "password": "",
@@ -8,7 +8,7 @@
   "server": {
     "ip": "NovaSurvSmp.aternos.me",
     "port": 26149,
-    "version": 1.21,
+    "version": 1.21.1,
     "try-creative": true
   },
   "position": {
