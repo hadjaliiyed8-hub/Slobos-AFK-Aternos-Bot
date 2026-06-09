@@ -8,7 +8,7 @@
   "server": {
     "ip": "NovaSurvSmp.aternos.me",
     "port": 26149,
-    "version": 1.21.8
+    "version": 1.21.8,
     "try-creative": true
   },
   "position": {
